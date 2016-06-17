@@ -1,0 +1,28 @@
+{
+  "name": "romanize-names-cli",
+  "version": "0.0.1",
+  "description": "a cli for [romanize-names](https://github.com/muan/romanize-names)",
+  "main": "bin.js",
+  "binary": {
+    "romanize": "bin.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zhuangya/romanize-names-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "romanize",
+    "chinese"
+  ],
+  "author": "Ya Zhuang <zhuangya@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuangya/romanize-names-cli/issues"
+  },
+  "homepage": "https://github.com/zhuangya/romanize-names-cli#readme",
+  "dependencies": {
+    "meow": "^3.7.0",
+    "romanize-names": "^2.0.0"
+  }
+}
