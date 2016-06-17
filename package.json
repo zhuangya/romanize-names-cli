@@ -1,11 +1,12 @@
 {
   "name": "romanize-names-cli",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "a cli for [romanize-names](https://github.com/muan/romanize-names)",
   "main": "bin.js",
-  "binary": {
+  "bin": {
     "romanize": "bin.js"
   },
+  "preferGlobal": true,
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/zhuangya/romanize-names-cli.git"
