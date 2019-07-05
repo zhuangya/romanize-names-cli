@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/zhuangya/romanize-names-cli#readme",
   "dependencies": {
-    "meow": "^3.7.0",
+    "meow": "^5.0.0",
     "romanize-names": "^2.0.0"
   }
 }
